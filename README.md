@@ -2,15 +2,25 @@
 
 # 👋 Shannon Smith
 
-**Cybersecurity | SOC Operations • Detection Engineering • Incident Response**
+**Tech Support Specialist @ UNC School of Social Work**<br>
+**Building toward SOC Operations • Detection Engineering • Incident Response**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=900&height=45&size=22&pause=1000&lines=Alert+%E2%86%92+Detection+%E2%86%92+Investigation+%E2%86%92+Decision;MITRE+ATT%26CK+Mapping+%E2%80%A2+Correlation+%E2%80%A2+Enrichment;Building+SOC-Style+Security+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?color=%2336BCF7&center=true&vCenter=true&width=900&height=45&size=22&pause=1000&lines=Alert+%E2%86%92+Detection+%E2%86%92+Investigation+%E2%86%92+Decision;MITRE+ATT%26CK+Mapping+%E2%80%A2+Correlation+%E2%80%A2+Enrichment;Building+SOC-Style+Security+Systems" />
 </p>
 
 I'm building **hands-on, SOC-style security projects** that mirror how analysts triage, investigate, and respond to threats — combining **offensive fundamentals with defensive detection** to practice both sides of an investigation as I grow into security operations.
 
 </div>
+
+---
+
+## 📌 Currently
+
+- 💼 **Tech Support Specialist** — UNC School of Social Work (since October 2026)
+- 📚 Working through **SANS SEC504** toward the **GCIH**, via the WiCyS/SANS Training Track
+- 🖥 Expanding my **home lab** for detection and log analysis practice
+- 🗂 Rebuilding my **Virginia Tech coursework** as documented, portfolio-quality repos
 
 ---
 
@@ -22,7 +32,7 @@ I'm building **hands-on, SOC-style security projects** that mirror how analysts 
 
 <p align="center">
 Security investigations, labs, and technical writeups, <br> plus the creative work that hones my problem-solving.<br>
-👉 https://shannonasmith.github.io/
+👉 <a href="https://shannonasmith.github.io/">shannonasmith.github.io</a>
 </p>
 
 ---
@@ -34,9 +44,25 @@ Security investigations, labs, and technical writeups, <br> plus the creative wo
 | **SOC Alert Triage** | [AI-Assisted SOC Alert Analyzer](https://github.com/shannonasmith/AI-Assisted-SOC-Alert-Analyzer) |
 | **MITRE ATT&CK Mapping** | [SOC MITRE ATT&CK Mapping Engine](https://github.com/shannonasmith/AI-Assisted-SOC-MITRE-ATTACK-Mapping-Engine) |
 | **Investigation Workflows** | [Agentic SOC Investigation Engine](https://github.com/shannonasmith/Agentic-SOC-Investigation-Engine) |
-| **Detection Engineering** | Custom rule-based + hybrid scoring pipelines |
-| **Threat Hunting & Correlation** | Batch analysis, severity distribution, IP relationship mapping |
-| **Automation & Scripting** | Python-based SOC pipelines and CLI workflows |
+
+Across these projects: rule-based and hybrid scoring pipelines, batch analysis and severity distribution, IP relationship mapping, and Python-based CLI workflows.
+
+---
+
+## 🏅 Certifications
+
+- GIAC **GSEC** – GIAC Security Essentials
+- GIAC **GFACT** – GIAC Foundational Cybersecurity Technologies
+- Certified Ethical Hacker (**CEH**)
+- Splunk **Core Certified Power User (CCPU)**
+- CompTIA **Security+**
+- CompTIA **Linux+**
+- CompTIA **A+**
+- CompTIA **Systems Support Specialist (CSSS)** — stackable credential
+- UiPath **Certified Professional Automation Developer Associate (ADAv1)**
+
+**In Progress:**
+- SANS SEC504 – Hacker Tools, Techniques & Incident Handling (**GCIH**)
 
 ---
 
@@ -47,30 +73,14 @@ Security investigations, labs, and technical writeups, <br> plus the creative wo
 | **Operating Systems** | Linux (Kali, Ubuntu) • Windows |
 | **Languages & Scripting** | Python • Bash • Java • SQL |
 | **Security Tools** | Nmap • Wireshark • Burp Suite • Metasploit • BloodHound <br> Splunk • ELK Stack • Zeek • Sysmon |
-| **Core Specialties** | Security Operations (SOC) • Detection Engineering <br> Offensive Security • Red / Blue / Purple Teaming <br> Threat Hunting • Incident Response <br> Network Security • Infrastructure Security <br> Malware Analysis • Vulnerability Management |
-
----
-
-## 🏅 Certifications
-
-- GIAC **GSEC** – GIAC Security Essentials  
-- GIAC **GFACT** – GIAC Foundational Cybersecurity Technologies  
-- Certified Ethical Hacker (**CEH**)
-- Splunk **Core Certified Power User (CCPU)**
-- UiPath **Certified Professional Automation Developer Associate (ADAv1)**
-- CompTIA **Security+**  
-- CompTIA **Linux+**  
-- CompTIA **A+**  
-
-**In Progress:**
-- SANS SEC504 – Hacker Tools, Techniques & Incident Handling (**GCIH**), via the WiCyS/SANS Training Track
+| **Areas of Focus** | Security Operations (SOC) • Detection Engineering <br> Incident Response • Threat Hunting <br> Offensive Security Fundamentals |
 
 ---
 
 ## 🎓 Education
 
-- **Master of Information Technology** — Virginia Tech (2023)  
-Graduate Certificates: Software Development and Cybersecurity Policy  
+- **Master of Information Technology** — Virginia Tech (2023)
+Graduate Certificates: Software Development and Cybersecurity Policy
 
 - **Bachelor of Science in Technical Management** — DeVry University (2017)
 
@@ -85,7 +95,6 @@ Graduate Certificates: Software Development and Cybersecurity Policy
 <div align="center">
  United States Navy (2004–2008) - Petty Officer Second Class (E-5) - USS New Orleans (LPD-18)
 </div>
-  
 
 ---
 
@@ -97,9 +106,9 @@ Outside of security, I enjoy cycling and creative disciplines like woodworking a
 
 ## 🤝 Connect With Me
 
-**Portfolio**: https://shannonasmith.github.io/  
-**LinkedIn**: https://www.linkedin.com/in/shannonasmith  
-**Credly**: https://www.credly.com/users/shannon-smith-it-usn  
+- **Portfolio:** [shannonasmith.github.io](https://shannonasmith.github.io/)
+- **LinkedIn:** [linkedin.com/in/shannonasmith](https://www.linkedin.com/in/shannonasmith)
+- **Credly:** [credly.com/users/shannon-smith-it-usn](https://www.credly.com/users/shannon-smith-it-usn)
 
 ---
 
