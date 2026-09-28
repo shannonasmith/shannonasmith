@@ -27,7 +27,7 @@ I'm building **hands-on, SOC-style security projects** that mirror how analysts 
 ## 🎯 Portfolio
 
 <div align="center">
-  <img src="images/portfolio.png" width="800">
+  <img src="images/portfolio.gif" width="800">
 </div>
 
 <p align="center">
